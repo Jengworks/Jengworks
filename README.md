@@ -1,6 +1,7 @@
 # Jacky Eng
 
 A software engineer and an inline skater from New York City who:  
+
 :computer: has personal projects like making cool apps or IoT stuff.  
 :earth_africa: likes to stay updated about what's happening around the world.    
 :dollar: is interested in finance and stock markets.  
